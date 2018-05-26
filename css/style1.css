@@ -1,0 +1,15 @@
+label{
+            font-weight:bold;
+            color:rgb(128, 0, 64);
+        }
+       
+        body{
+            background: url('../image/img1.jpg');
+        }
+        h2{
+            color:rgb(128, 0, 64);
+        }
+        .header{
+            text-align:center;
+           color:red;
+        }
